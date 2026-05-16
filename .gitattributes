@@ -1,0 +1,5 @@
+Курс[[:space:]]3[[:space:]]-[[:space:]]Нейронные[[:space:]]сети[[:space:]]и[[:space:]]глубокое[[:space:]]обучение/3.3[[:space:]]Torch[[:space:]]-[[:space:]]Персептроны/data/** filter=lfs diff=lfs merge=lfs -text
+Курс[[:space:]]3[[:space:]]-[[:space:]]Нейронные[[:space:]]сети[[:space:]]и[[:space:]]глубокое[[:space:]]обучение/3.4[[:space:]]Torch[[:space:]]-[[:space:]]Свёрточные[[:space:]]сети/data/** filter=lfs diff=lfs merge=lfs -text
+Курс[[:space:]]3[[:space:]]-[[:space:]]Нейронные[[:space:]]сети[[:space:]]и[[:space:]]глубокое[[:space:]]обучение/3.5[[:space:]]Классификация[[:space:]]погоды/data/** filter=lfs diff=lfs merge=lfs -text
+Курс[[:space:]]3[[:space:]]-[[:space:]]Нейронные[[:space:]]сети[[:space:]]и[[:space:]]глубокое[[:space:]]обучение/3.6[[:space:]]Валидация[[:space:]]и[[:space:]]интерпретация[[:space:]]моделей/data/** filter=lfs diff=lfs merge=lfs -text
+Курс[[:space:]]3[[:space:]]-[[:space:]]Нейронные[[:space:]]сети[[:space:]]и[[:space:]]глубокое[[:space:]]обучение/3.6[[:space:]]Валидация[[:space:]]и[[:space:]]интерпретация[[:space:]]моделей/test/** filter=lfs diff=lfs merge=lfs -text
