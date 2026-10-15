@@ -1,3 +1,26 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:457bc85c26417ada2ae421a8ed17565a3e8e3264065e7f530dfd9e62f21d9373
-size 554
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>BloodImage_00250.jpg</filename>
+	<path>/home/pi/detection_dataset/JPEGImages/BloodImage_00250.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>WBC</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>143</ymin>
+			<xmax>324</xmax>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+</annotation>

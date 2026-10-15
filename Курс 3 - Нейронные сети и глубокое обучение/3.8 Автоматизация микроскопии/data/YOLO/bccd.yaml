@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b25bd71bb31e5f8c8d78face325a6245465783b7332409777bce929eed0231d3
-size 122
+path: data/YOLO
+train: images/train
+val: images/valid
+test: images/test
+
+names:
+  0: RBC
+  1: WBC
+  2: Platelets
