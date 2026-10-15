@@ -1,0 +1,14 @@
+services:
+  jupyter_spark:
+    build: .
+    container_name: task2_pyspark_als_container
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./work:/home/jovyan/work
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
+      - JUPYTER_TOKEN=pyspark_ml
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    restart: unless-stopped
